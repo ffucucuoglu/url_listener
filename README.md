@@ -1,6 +1,6 @@
 # Goal
 
-Xposed module that listens to okhttp3 requests and saves all uniqe URLs to a file.
+Xposed module that listens to okhttp3 requests and saves all unique URLs to a file.
 
 # Environment
 
