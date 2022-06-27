@@ -1,3 +1,7 @@
+# Goal
+
+Xposed module that listens to okhttp3 requests and saves all uniqe URLs to a file.
+
 # Environment
 
 This project developed on Genymotion emulator and xposed framework.
@@ -24,6 +28,8 @@ There is 2 different ways to call new http requests with okhttp3. They are "exec
 
 
 # Result
+
+You can find 'urls.txt' file in emulator, under '/storage/emulated/legacy/'
 
 ```adb shell```
 
